@@ -2,7 +2,7 @@
 Introdução à programação na linguagem ST.
 
 ## Propostas:
-(transcrições feitas por [Lucas Mallmann](https://github.com/LucasMallmannEich/Simple_ST_Projects))
+*as transcrições abaixo foram feitas por Lucas Mallmann no [seu próprio repositório de programação na linguagem ST](https://github.com/LucasMallmannEich/Simple_ST_Projects)
 
 Exercício 1:
 - Três cargas devem ser acionadas em sequência, comandadas por um único botão.
