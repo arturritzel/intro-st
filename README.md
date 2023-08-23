@@ -1,5 +1,5 @@
 # intro-st
-Introdução à programação na linguagem ST.
+Introdução à programação na linguagem ST, na matéria de automação, parte do componente curricular do curso técnico de eletrônica na Fundação Escola Técnica Liberato Salzano Vieira da Cunha.
 
 ## Propostas:
 *as transcrições abaixo foram feitas por Lucas Mallmann no [seu próprio repositório de programação na linguagem ST](https://github.com/LucasMallmannEich/Simple_ST_Projects)
