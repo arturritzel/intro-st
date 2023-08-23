@@ -16,7 +16,6 @@ Exercício 2:
 - A segunda carga aciona 5s após a primeira carga ser acionada, e a terceira 5s após a segunda.
 - Implementar um botão de desligamento das cargas Utilize o Function Block TON para temporização.
 
-
 Exercício 3:
 - A lixa de uma lixadeira de fios deve ser afiada periodicamente, e para isto o sentido de rotação do motor deve ser invertido.
 - Para isto, o controle possui duas saídas digitais, uma que aciona a o motor no sentido de lixamento, outra que aciona o motor no sentido de afiação.
